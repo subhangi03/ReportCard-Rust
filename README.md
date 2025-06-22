@@ -61,17 +61,17 @@ rustup install stable
 ```
 📄 STUDENT REPORT CARD
 
-Name: Priya Sharma
+Name: Neha Dey
 Subjects: 3
 
 Subject              Marks
 ----------------------------------------
-Math                 95.00
-Physics              88.00
-English              92.00
+Math                 99.00
+Physics              87.00
+English              94.00
 ----------------------------------------
-Total Marks: 275.00
-Average: 91.67
+Total Marks: 280.00
+Average: 93.33
 Grade: A
 ```
 
